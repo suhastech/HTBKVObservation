@@ -1,12 +1,18 @@
 PODS:
-  - libextobjc/EXTScope (0.2.5):
+  - libextobjc/EXTScope (0.6):
     - libextobjc/RuntimeExtensions
-  - libextobjc/RuntimeExtensions (0.2.5)
+  - libextobjc/RuntimeExtensions (0.6)
 
 DEPENDENCIES:
-  - libextobjc/EXTScope (~> 0.2.5)
+  - libextobjc/EXTScope
+
+SPEC REPOS:
+  trunk:
+    - libextobjc
 
 SPEC CHECKSUMS:
-  libextobjc: 2cbc74caf8bdc74a86fdf24673f773c83424ea98
+  libextobjc: aed8b7d2b07f511c1a7ecaacb33ea03e327c69b7
 
-COCOAPODS: 0.17.1
+PODFILE CHECKSUM: 96b5fefd5ca155cd40e201fe0d5cefde946f4b25
+
+COCOAPODS: 1.12.0
